@@ -1,1 +1,1 @@
-# banking
+this is a website related for banking application of our main project ,nowadays banking has become very difficult and our app main moto is to make banking easier for all so i have came up with this solution
