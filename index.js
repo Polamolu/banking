@@ -117,6 +117,7 @@ let dekock = document.querySelector('.login');
 dekock.addEventListener('click', function (e) {
   e.preventDefault();
   alert('Please use this button if you already have account');
+  window.location.assign(" https://polamolu.github.io/project2/");
 });
 let big = document.querySelector('.big');
 let sense = document.querySelector('.forms');
